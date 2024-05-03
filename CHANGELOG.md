@@ -24,3 +24,15 @@ schematic.png, updated with votlage regulator and header pins
 ### Removed
 None
 
+## 5/2/2024
+### Contributors
+Matthew Zheng
+
+### Added
+Adding export.zip
+### Changed
+None
+### Removed
+None
+
+
